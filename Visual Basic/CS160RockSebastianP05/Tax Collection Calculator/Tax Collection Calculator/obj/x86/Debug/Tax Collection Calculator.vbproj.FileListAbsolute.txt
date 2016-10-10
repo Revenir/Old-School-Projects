@@ -1,0 +1,22 @@
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\bin\Debug\Tax Collection Calculator.exe
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\bin\Debug\Tax Collection Calculator.pdb
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\bin\Debug\Tax Collection Calculator.xml
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\obj\x86\Debug\Tax_Collection_Calculator.Form1.resources
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\obj\x86\Debug\Tax_Collection_Calculator.Resources.resources
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\obj\x86\Debug\Tax Collection Calculator.exe
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\obj\x86\Debug\Tax Collection Calculator.xml
+C:\Users\rock237574\AppData\Local\Temporary Projects\Tax Collection Calculator\obj\x86\Debug\Tax Collection Calculator.pdb
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\obj\x86\Debug\Tax Collection Calculator.exe
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\obj\x86\Debug\Tax Collection Calculator.xml
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\obj\x86\Debug\Tax Collection Calculator.pdb
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\bin\Debug\Tax Collection Calculator.exe
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\bin\Debug\Tax Collection Calculator.pdb
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\bin\Debug\Tax Collection Calculator.xml
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\obj\x86\Debug\Tax_Collection_Calculator.Form1.resources
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\obj\x86\Debug\Tax_Collection_Calculator.Resources.resources
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual Basic\2 HW\CS160RockSebastianP05\Tax Collection Calculator\Tax Collection Calculator\obj\x86\Debug\GenerateResource.write.1.tlog

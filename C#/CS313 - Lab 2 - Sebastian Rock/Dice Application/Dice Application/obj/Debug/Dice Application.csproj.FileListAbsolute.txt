@@ -1,0 +1,12 @@
+c:\users\sebastian\documents\visual studio 2013\Projects\Dice Application\Dice Application\bin\Debug\Dice Application.exe.config
+C:\Users\Sebastian\Documents\Visual Studio 2013\Projects\Dice Application\Dice Application\obj\Debug\Dice Application.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2013\Projects\Dice Application\Dice Application\bin\Debug\Dice Application.exe
+C:\Users\Sebastian\Documents\Visual Studio 2013\Projects\Dice Application\Dice Application\bin\Debug\Dice Application.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2013\Projects\Dice Application\Dice Application\obj\Debug\Dice Application.exe
+C:\Users\Sebastian\Documents\Visual Studio 2013\Projects\Dice Application\Dice Application\obj\Debug\Dice Application.pdb
+E:\CS313 - Lab 2 - Sebastian Rock\Dice Application\Dice Application\bin\Debug\Dice Application.exe.config
+E:\CS313 - Lab 2 - Sebastian Rock\Dice Application\Dice Application\obj\Debug\Dice Application.exe
+E:\CS313 - Lab 2 - Sebastian Rock\Dice Application\Dice Application\obj\Debug\Dice Application.pdb
+E:\CS313 - Lab 2 - Sebastian Rock\Dice Application\Dice Application\bin\Debug\Dice Application.exe
+E:\CS313 - Lab 2 - Sebastian Rock\Dice Application\Dice Application\bin\Debug\Dice Application.pdb
+E:\CS313 - Lab 2 - Sebastian Rock\Dice Application\Dice Application\obj\Debug\Dice Application.csprojResolveAssemblyReference.cache

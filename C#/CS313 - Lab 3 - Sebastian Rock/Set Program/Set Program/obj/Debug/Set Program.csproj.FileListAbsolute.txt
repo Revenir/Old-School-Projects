@@ -1,0 +1,12 @@
+c:\users\sebastian\documents\visual studio 2013\Projects\Set Program\Set Program\bin\Debug\Set Program.exe.config
+C:\Users\Sebastian\Documents\Visual Studio 2013\Projects\Set Program\Set Program\bin\Debug\Set Program.exe
+C:\Users\Sebastian\Documents\Visual Studio 2013\Projects\Set Program\Set Program\bin\Debug\Set Program.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2013\Projects\Set Program\Set Program\obj\Debug\Set Program.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2013\Projects\Set Program\Set Program\obj\Debug\Set Program.exe
+C:\Users\Sebastian\Documents\Visual Studio 2013\Projects\Set Program\Set Program\obj\Debug\Set Program.pdb
+E:\CS313 - Lab 3 - Sebastian Rock\Set Program\Set Program\bin\Debug\Set Program.exe.config
+E:\CS313 - Lab 3 - Sebastian Rock\Set Program\Set Program\obj\Debug\Set Program.exe
+E:\CS313 - Lab 3 - Sebastian Rock\Set Program\Set Program\obj\Debug\Set Program.pdb
+E:\CS313 - Lab 3 - Sebastian Rock\Set Program\Set Program\bin\Debug\Set Program.exe
+E:\CS313 - Lab 3 - Sebastian Rock\Set Program\Set Program\bin\Debug\Set Program.pdb
+E:\CS313 - Lab 3 - Sebastian Rock\Set Program\Set Program\obj\Debug\Set Program.csprojResolveAssemblyReference.cache

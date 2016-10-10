@@ -1,0 +1,14 @@
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\bin\Debug\Movie Theater Calculator.exe
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\bin\Debug\Movie Theater Calculator.pdb
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\bin\Debug\Movie Theater Calculator.xml
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\Movie Theater Calculator.exe
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\Movie Theater Calculator.xml
+E:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\Movie Theater Calculator.pdb
+H:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\Movie Theater Calculator.exe
+H:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\Movie Theater Calculator.xml
+H:\Visual Basic\2 HW\CS160RockSebastianP03B\Movie Theater Calculator\Movie Theater Calculator\obj\x86\Debug\Movie Theater Calculator.pdb

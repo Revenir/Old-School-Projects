@@ -1,0 +1,27 @@
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\Dice Application\Dice Application\bin\Debug\Dice Application.exe.config
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\Dice Application\Dice Application\obj\Debug\Dice Application.csprojResolveAssemblyReference.cache
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\Dice Application\Dice Application\obj\Debug\Dice_Application.Form1.resources
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\Dice Application\Dice Application\obj\Debug\Dice_Application.Properties.Resources.resources
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\Dice Application\Dice Application\obj\Debug\Dice Application.csproj.GenerateResource.Cache
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\Dice Application\Dice Application\bin\Debug\Dice Application.exe
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\Dice Application\Dice Application\bin\Debug\Dice Application.pdb
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\Dice Application\Dice Application\obj\Debug\Dice Application.exe
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\Dice Application\Dice Application\obj\Debug\Dice Application.pdb
+C:\Users\Sebastian\Documents\Dice Application\Dice Application\bin\Debug\Dice Application.exe.config
+C:\Users\Sebastian\Documents\Dice Application\Dice Application\obj\Debug\Dice Application.exe
+C:\Users\Sebastian\Documents\Dice Application\Dice Application\obj\Debug\Dice Application.pdb
+C:\Users\Sebastian\Documents\Dice Application\Dice Application\bin\Debug\Dice Application.exe
+C:\Users\Sebastian\Documents\Dice Application\Dice Application\bin\Debug\Dice Application.pdb
+C:\Users\Sebastian\Documents\Dice Application\Dice Application\obj\Debug\Dice Application.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Dice Application\Dice Application\obj\Debug\Dice_Application.Form1.resources
+C:\Users\Sebastian\Documents\Dice Application\Dice Application\obj\Debug\Dice_Application.Properties.Resources.resources
+C:\Users\Sebastian\Documents\Dice Application\Dice Application\obj\Debug\Dice Application.csproj.GenerateResource.Cache
+C:\Users\Sebastian\Documents\Programming For School\CS313 - Lab 4 (Windows Forms) - Sebastian Rock\Dice Application\Dice Application\bin\Debug\Dice Application.exe.config
+C:\Users\Sebastian\Documents\Programming For School\CS313 - Lab 4 (Windows Forms) - Sebastian Rock\Dice Application\Dice Application\obj\Debug\Dice Application.exe
+C:\Users\Sebastian\Documents\Programming For School\CS313 - Lab 4 (Windows Forms) - Sebastian Rock\Dice Application\Dice Application\obj\Debug\Dice Application.pdb
+C:\Users\Sebastian\Documents\Programming For School\CS313 - Lab 4 (Windows Forms) - Sebastian Rock\Dice Application\Dice Application\bin\Debug\Dice Application.exe
+C:\Users\Sebastian\Documents\Programming For School\CS313 - Lab 4 (Windows Forms) - Sebastian Rock\Dice Application\Dice Application\bin\Debug\Dice Application.pdb
+C:\Users\Sebastian\Documents\Programming For School\CS313 - Lab 4 (Windows Forms) - Sebastian Rock\Dice Application\Dice Application\obj\Debug\Dice Application.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Programming For School\CS313 - Lab 4 (Windows Forms) - Sebastian Rock\Dice Application\Dice Application\obj\Debug\Dice_Application.Form1.resources
+C:\Users\Sebastian\Documents\Programming For School\CS313 - Lab 4 (Windows Forms) - Sebastian Rock\Dice Application\Dice Application\obj\Debug\Dice_Application.Properties.Resources.resources
+C:\Users\Sebastian\Documents\Programming For School\CS313 - Lab 4 (Windows Forms) - Sebastian Rock\Dice Application\Dice Application\obj\Debug\Dice Application.csproj.GenerateResource.Cache

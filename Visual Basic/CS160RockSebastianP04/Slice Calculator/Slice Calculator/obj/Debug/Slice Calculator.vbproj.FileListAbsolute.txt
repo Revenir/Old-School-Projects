@@ -1,0 +1,23 @@
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\Slice Calculator\Slice Calculator\bin\Debug\Slice Calculator.exe.config
+H:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\bin\Debug\Slice Calculator.exe.config
+H:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\bin\Debug\Slice Calculator.exe
+H:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\bin\Debug\Slice Calculator.pdb
+H:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\bin\Debug\Slice Calculator.xml
+H:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\WindowsApplication1.Form1.resources
+H:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\WindowsApplication1.Resources.resources
+H:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\Slice Calculator.vbproj.GenerateResource.Cache
+H:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\Slice Calculator.exe
+H:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\Slice Calculator.xml
+H:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\Slice Calculator.pdb
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\bin\Debug\Slice Calculator.exe.config
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\Slice Calculator.exe
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\Slice Calculator.xml
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\Slice Calculator.pdb
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\bin\Debug\Slice Calculator.exe
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\bin\Debug\Slice Calculator.pdb
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\bin\Debug\Slice Calculator.xml
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\WindowsApplication1.Form1.resources
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\WindowsApplication1.Resources.resources
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Visual Basic\2 HW\CS160RockSebastianP04\Slice Calculator\Slice Calculator\obj\Debug\GenerateResource-ResGen.write.1.tlog

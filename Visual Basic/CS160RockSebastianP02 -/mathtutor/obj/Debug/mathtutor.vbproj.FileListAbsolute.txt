@@ -1,0 +1,32 @@
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\mathtutor\mathtutor\bin\Debug\mathtutor.exe.config
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\mathtutor\mathtutor\bin\Debug\mathtutor.exe
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\mathtutor\mathtutor\bin\Debug\mathtutor.pdb
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\mathtutor\mathtutor\bin\Debug\mathtutor.xml
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\mathtutor\mathtutor\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\mathtutor\mathtutor\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\mathtutor\mathtutor\obj\Debug\mathtutor.vbproj.GenerateResource.Cache
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\mathtutor\mathtutor\obj\Debug\mathtutor.exe
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\mathtutor\mathtutor\obj\Debug\mathtutor.xml
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\mathtutor\mathtutor\obj\Debug\mathtutor.pdb
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\CS160RockSebastianP02\mathtutor\bin\Debug\mathtutor.exe.config
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\CS160RockSebastianP02\mathtutor\obj\Debug\mathtutor.exe
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\CS160RockSebastianP02\mathtutor\obj\Debug\mathtutor.xml
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\CS160RockSebastianP02\mathtutor\obj\Debug\mathtutor.pdb
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\CS160RockSebastianP02\mathtutor\bin\Debug\mathtutor.exe
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\CS160RockSebastianP02\mathtutor\bin\Debug\mathtutor.pdb
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\CS160RockSebastianP02\mathtutor\bin\Debug\mathtutor.xml
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\CS160RockSebastianP02\mathtutor\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\CS160RockSebastianP02\mathtutor\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Revenir\Desktop\Seb's Crud\Programming\CS160RockSebastianP02\mathtutor\obj\Debug\mathtutor.vbproj.GenerateResource.Cache
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\bin\Debug\mathtutor.exe.config
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\obj\Debug\mathtutor.exe
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\obj\Debug\mathtutor.xml
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\obj\Debug\mathtutor.pdb
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\bin\Debug\mathtutor.exe
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\bin\Debug\mathtutor.pdb
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\bin\Debug\mathtutor.xml
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\obj\Debug\WindowsApplication1.Form1.resources
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\obj\Debug\WindowsApplication1.Resources.resources
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor\obj\Debug\GenerateResource-ResGen.write.1.tlog

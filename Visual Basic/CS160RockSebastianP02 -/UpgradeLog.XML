@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mathtutor">
+</Property><Property Name="Solution File" Value="E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor.sln">
+</Property><Property Name="User Options File" Value="E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\mathtutor.suo">
+</Property><Property Name="Date" Value="Thursday, February 07, 2013">
+</Property><Property Name="Time" Value="11:07 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mathtutor.sln" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor.sln">
+</Event><Event ErrorLevel="0" Project="" Source="mathtutor.suo" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor.suo">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\mathtutor.vbproj" Description="Project file successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\mathtutor.vbproj">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\mathtutor.vbproj.user" Description="Project user file successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\mathtutor.vbproj.user">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\Form1.vb" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\Form1.vb">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\Form1.Designer.vb" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\My Project\Application.Designer.vb" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\My Project\Application.myapp" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\My Project\Settings.settings" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\App.config" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\App.config">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\Form1.resx" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\Form1.resx">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\My Project\Resources.resx" Description="File successfully backed up as E:\Visual Basic\2 HW\CS160RockSebastianP02 - Copy\Backup\mathtutor\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\mathtutor.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="mathtutor" Source="mathtutor\mathtutor.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="mathtutor.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="mathtutor.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="mathtutor" Source="mathtutor\App.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="mathtutor" Source="mathtutor\App.config" Description="Converted">
+</Event></UpgradeLog>

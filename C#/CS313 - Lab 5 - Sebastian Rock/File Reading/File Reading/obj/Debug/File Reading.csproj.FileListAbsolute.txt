@@ -1,0 +1,18 @@
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\File Reading\File Reading\bin\Debug\File Reading.exe.config
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\File Reading\File Reading\bin\Debug\File Reading.exe
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\File Reading\File Reading\bin\Debug\File Reading.pdb
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\File Reading\File Reading\obj\Debug\File Reading.csprojResolveAssemblyReference.cache
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\File Reading\File Reading\obj\Debug\File_Reading.Form1.resources
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\File Reading\File Reading\obj\Debug\File_Reading.Properties.Resources.resources
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\File Reading\File Reading\obj\Debug\File Reading.csproj.GenerateResource.Cache
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\File Reading\File Reading\obj\Debug\File Reading.exe
+\\audcfs02\stuhome$\rock237574\visual studio 2012\Projects\File Reading\File Reading\obj\Debug\File Reading.pdb
+C:\Users\Sebastian\Documents\CS 313 - Sebastian Rock - Lab 5\File Reading\File Reading\bin\Debug\File Reading.exe.config
+C:\Users\Sebastian\Documents\CS 313 - Sebastian Rock - Lab 5\File Reading\File Reading\obj\Debug\File Reading.exe
+C:\Users\Sebastian\Documents\CS 313 - Sebastian Rock - Lab 5\File Reading\File Reading\obj\Debug\File Reading.pdb
+C:\Users\Sebastian\Documents\CS 313 - Sebastian Rock - Lab 5\File Reading\File Reading\bin\Debug\File Reading.exe
+C:\Users\Sebastian\Documents\CS 313 - Sebastian Rock - Lab 5\File Reading\File Reading\bin\Debug\File Reading.pdb
+C:\Users\Sebastian\Documents\CS 313 - Sebastian Rock - Lab 5\File Reading\File Reading\obj\Debug\File Reading.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\CS 313 - Sebastian Rock - Lab 5\File Reading\File Reading\obj\Debug\File_Reading.Form1.resources
+C:\Users\Sebastian\Documents\CS 313 - Sebastian Rock - Lab 5\File Reading\File Reading\obj\Debug\File_Reading.Properties.Resources.resources
+C:\Users\Sebastian\Documents\CS 313 - Sebastian Rock - Lab 5\File Reading\File Reading\obj\Debug\File Reading.csproj.GenerateResource.Cache
