@@ -1,0 +1,48 @@
+program cs245P05;
+// Class: CS 245 01
+// Date: May 7, 2013
+// Description: Counts items for Acme Warehouse
+
+#include("stdlib.hhf")
+
+var
+	ID: int16;
+	items: int8;
+	containers: int8;
+	price: int8;
+	total: int8;
+	cost: int8;
+	
+begin cs245P05;
+	forever
+		stdout.put("Please input item number ");
+		stdin.get(ID);
+		breakif(ID = 9999);
+		repeat
+			stdout.put("Number of items per container ");
+			stdin.geti8();
+			mov(al, items);
+		until(items > 3 || items < 25); // Items can be 4, but not any less, so that's why I used 3
+		repeat
+			stdout.put("Number of containers ");
+			stdin.geti8();
+			mov(al, containers);
+		until(containers > 0 || containers < 21);
+		repeat
+			stdout.put("Unit price: ");
+			stdin.geti8();
+			mov(al, price);
+		until(price > 0 || price < 51);
+		
+		stdout.put("The number of containers is ", containers, nl);
+		mov(containers, al);
+		mul(items);
+		mov(al, total);
+		stdout.put("The total number of items is ", total, nl);
+		mov(total, al);
+		mul(price);
+		mov(al, cost);
+		stdout.put("The total cost for the items is $", cost);
+	endfor;
+
+end cs245P05;
